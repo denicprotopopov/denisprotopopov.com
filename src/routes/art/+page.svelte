@@ -26,6 +26,18 @@
 	<!-- svelte-ignore a11y-missing-content -->
 	<Card class="cv card"><a href="/art/cv"></a></Card>
 
+	<Card class="dark card">
+		<a href="/art/labor">
+		<p class="header-in-box">Labor in Question</p>
+		<p class="text-in-box">
+			An exploratory three.js video game addressing the identity of an industrial worker in post-soviet Karelia.
+		</p>
+		</a>
+	</Card>
+
+	<!-- svelte-ignore a11y-missing-content -->
+	<Card class="labor card"><a href="/art/labor"></a></Card>
+
 	<Card class="grey card">
 		<a href="/art/rockets">
 		<p class="header-in-box">Rockets Take Off and Crash and Scatter in the Air</p>
@@ -111,6 +123,9 @@
 	.container :global(.grey) {
 		background-color: rgb(94, 97, 122);
 	}
+	.container :global(.dark) {
+		background-color: rgb(55, 56, 61);
+	}
 	.container :global(.cv) {
 		background-image: url("/images/cv0.png");
 	}
@@ -134,6 +149,9 @@
 
 	.container :global(.damn) {
 		background-image: url("/images/damn.jpeg");
+	}
+	.container :global(.labor) {
+		background-image: url("/images/factory.png");
 	}
 	
 
