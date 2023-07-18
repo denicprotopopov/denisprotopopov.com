@@ -63,7 +63,7 @@ inject({ mode: dev ? 'development' : 'production' });
 	</Card>
 
 	<Card class="brown card">
-		<a href="https://drive.google.com/file/d/1A7K9XyeAp2fTm3a-fTLOhf3hyoswdfax/preview" target="_blank">
+		<a href="https://drive.google.com/file/d/1u29eXYOTaHS5TlJzdCoaY97ie2_qg_Ze/preview" target="_blank">
 		<p class="header-in-box">CV & Portfolio</p>
 		<p class="text-in-box">
 			Texts and articles on technologies, society and media. History of digital art, low-tech web and algorithmic biases.

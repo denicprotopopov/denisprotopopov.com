@@ -26,6 +26,17 @@
 	<!-- svelte-ignore a11y-missing-content -->
 	<Card class="cv card"><a href="/art/cv"></a></Card>
 
+	<Card class="darkgreen card">
+		<a href="/art/mistakesandmemories">
+		<p class="header-in-box">Mistakes and Memories</p>
+		<p class="text-in-box">
+			Visual novel adventure game in development that uses queer perspectives on weaponization.
+		</p>
+		</a>
+	</Card>
+
+	<Card class="drone card"><a href="/art/mistakesandmemories"></a></Card>
+
 	<Card class="dark card">
 		<a href="/art/labor">
 		<p class="header-in-box">Labor in Question</p>
@@ -126,6 +137,9 @@
 	.container :global(.dark) {
 		background-color: rgb(55, 56, 61);
 	}
+	.container :global(.darkgreen) {
+		background-color: rgb(82, 64, 55);
+	}
 	.container :global(.cv) {
 		background-image: url("/images/cv0.png");
 	}
@@ -152,6 +166,10 @@
 	}
 	.container :global(.labor) {
 		background-image: url("/images/factory.png");
+	}
+
+	.container :global(.drone) {
+		background-image: url("/images/drone1.png");
 	}
 	
 
