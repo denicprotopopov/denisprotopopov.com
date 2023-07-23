@@ -66,7 +66,7 @@ inject({ mode: dev ? 'development' : 'production' });
 		<a href="https://drive.google.com/file/d/1u29eXYOTaHS5TlJzdCoaY97ie2_qg_Ze/preview" target="_blank">
 		<p class="header-in-box">CV & Portfolio</p>
 		<p class="text-in-box">
-			Texts and articles on technologies, society and media. History of digital art, low-tech web and algorithmic biases.
+			CV and Portfolio in PDF.
 		</p>
 	</a>
 	</Card>

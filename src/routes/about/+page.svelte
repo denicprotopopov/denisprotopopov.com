@@ -22,16 +22,24 @@
             <div class="row">
                 <a class="cell" href="../">
                     <div class="with-arrow">
-                        <h3>To main page</h3>
+                        <h3>Main page</h3>
                         <div class="arrow"></div>
                     </div>
                 </a>
 
-                <a class="cell" href="mailto:protdenden@gmail.com">
+                <a class="cell" href="mailto:hi@denisprotopopov.com">
                     <div class="with-arrow">
                         <h3>Contact me</h3>
                         <div class="arrow"></div>
                     </div>
+                </a>
+
+                <a class="cell" href="https://github.com/denicprotopopov">
+                    <div class="with-arrow">
+                        <h3>GitHub</h3>
+                        <div class="arrow"></div>
+                    </div>
+                </a>
             </div>
 
             <div class="row">
@@ -54,7 +62,7 @@
 
             <div class="row">
                 <div class="cell">
-                   <p>Education is a field where I see an opportunity for actual change towards a more just and equal world. This is why, in addition to working with edTech companies, I have produced and developed two independent educational projects for artists and activists. My work in this area has been recognized, including a mention in <a class="intext" href="https://www.forbes.ru/finansy/492731-rosstat-soobsil-ob-uskorenii-godovoj-inflacii-v-iune-do-3-25">Forbes</a> for developing the first educational project on digital art in Russia.</p>
+                   <p>Education is a field where I see an opportunity for actual change towards a more just and equal world. This is why, in addition to working with edTech companies, I have produced and developed two independent educational projects for artists and activists. My work in this area has been recognized, including a mention in <a class="intext" href="https://www.forbes.ru/forbeslife/415027-bezuslovnyy-bazovyy-dohod-i-virtualnaya-realnost-kak-sozdateli-cifrovogo-iskusstva">Forbes</a> for developing the first educational project on digital art in Russia.</p>
                 </div>
             </div>
 
@@ -251,7 +259,7 @@
             <div class="row">
                 <a class="cell" href="https://obdn.ru/articles/denis-protopopov">
                     <div class="with-arrow">
-                        <h3>The Course of Things: Two Performances of the Noname Festival, Theater Magazine, 2020</h3>
+                        <h3>Interview for the OBYEDINENIE magazine, 2020</h3>
                         <div class="arrow"></div>
                     </div>
                 </a>
