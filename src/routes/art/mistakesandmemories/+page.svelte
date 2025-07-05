@@ -29,10 +29,10 @@
 			<div class="row">
 				<a
 					class="bright_cell centered"
-					href="https://github.com/denicprotopopov/mistakes-and-memories"
+					href="https://mistakes-and-memories.vercel.app/"
 					target="_blank"
 				>
-					<h2bright>Source Code</h2bright>
+					<h2bright>Link (Russian version)</h2bright>
 				</a>
 			</div>
 			<div class="row">
@@ -44,12 +44,31 @@
 			<div class="row">
 				<div class="cell">
 					<p>
-						This is a visual novel adventure game that is currently in development and uses queer
-						perspectives on weaponization. While cyborgs have been an integral part of queer
-						utopias, robots, drones, and other autonomous bodies are being developed in close
-						connection with the warfare industry. This project questions the ability to adopt
-						technologies as a part of queer utopias and the queer experience of killing in war that
-						military teleoperations provide.
+						A multiplayer visual novel about autonomous devices that use swarm intelligence during warfare.
+
+Linsday Clark and Christian Enemark describe drones and other swarm-based systems as a more humane way of waging war — one grounded in the ethics of care, an idea that is absurd in itself. An attempt at communication and connection becomes a justification for one of the warring sides.
+
+					</p>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="cell">
+					<p>
+The creators of the project developed a visual novel about how autonomous militarized devices turn into queer bodies — simultaneously robots and instruments of war. It is a story of how war disorients combatants, victims, perpetrators, and everyone caught within and around it, embedding into itself a language and mode of thinking that, by its very nature, should exclude war altogether.
+
+
+					</p>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="cell">
+					<p>
+
+The project uses principles of swarm intelligence to construct its sonic dimension — an attempt to build shared connections that bypass the biases of language, logic, and visual representation. The sound is generated in real time for all viewers and changes depending on how many are present.
+
+
 					</p>
 				</div>
 			</div>

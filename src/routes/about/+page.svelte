@@ -56,12 +56,12 @@
 			<div class="row">
 				<div class="cell">
 					<p>
-						I am a creative developer and STEM learning experience designer driven by a passion for
-						education, art, and making technology transparent. Over the past five years, I have
-						developed more than 10 artistic projects that have utilized various cutting-edge
-						technologies, such as AI, VR, and AR. I have held LX-designer positions in two edTech
-						companies that are among the top three leaders on the CIS market (Yandex Practicum and
-						SkillFactory).
+						Artist, researcher, educator and creative developer, working at the intersection of 
+						technologies, media, visual and performative arts. His work has been exhibited in 
+						various notable venues, including Ars Electronica [AT] and the Hermitage [RU], 
+						in the form of augmented reality experiences, algorithmic theater performances, 
+						games and visual novels. His projects explore algorithmic biases, 
+						queering technologies and machine magic to open the 'black box' of modern tech.
 					</p>
 				</div>
 			</div>
@@ -69,11 +69,9 @@
 			<div class="row">
 				<div class="cell">
 					<p>
-						With a background in computer science and visual arts, I have gained experience in
-						programming and design. My work has been exhibited in various notable venues such as Ars
-						Electronica and the Hermitage, in the form of websites, mobile apps, and games. This
-						experience helped me develop skills that now enable me to create technologically
-						advanced yet accessible and engaging projects.
+						Currently he is a creative developer and researcher at the Intangible Realities Laboratory, 
+						where he co-develops immersive technologies that and embodied experiences that bridge 
+						the gap between scientific visualization and aesthetic expression.
 					</p>
 				</div>
 			</div>
@@ -81,14 +79,16 @@
 			<div class="row">
 				<div class="cell">
 					<p>
-						Education is a field where I see an opportunity for actual change towards a more just
-						and equal world. This is why, in addition to working with edTech companies, I have
-						produced and developed two independent educational projects for artists and activists.
-						My work in this area has been recognized, including a mention in <a
+						He has produced and developed multiple independent educational projects 
+						for artists and activists, with his work in this area receiving recognition 
+						including a mention in <a
 							class="intext"
 							href="https://www.forbes.ru/forbeslife/415027-bezuslovnyy-bazovyy-dohod-i-virtualnaya-realnost-kak-sozdateli-cifrovogo-iskusstva"
 							>Forbes</a
-						> for developing the first educational project on digital art in Russia.
+						> for developing the first educational project on 
+						digital art in Russia. His educational initiatives focus on helping artists, 
+						performers and activists understand the politics and aesthetics of data processing 
+						and algorithms, questioning binary logic, hierarchies and biases of technology.
 					</p>
 				</div>
 			</div>
@@ -107,7 +107,23 @@
 					</div>
 				</a>
 			</div>
-
+			<div class="row">
+				<div class="cell">
+					<h3>Intangible Realities Laboratory</h3>
+					<p><b>2024 — now</b></p>
+					<p><b>Creative Developer and Researcher</b></p>
+					<p>
+						I use state-of-the-art techniques in computer vision, 
+						high performance computing, and real-time interaction 
+						to design and implement new immersive strategies for 
+						visualizing and interacting with the dynamics of 
+						real-time atomic and molecular simulations. 
+						I optimize immersive environments to ensure high performance, 
+						engaging user experience and compatibility with the latest 
+						hardware and software APIs. Also, I conducts research on emerging immersive technologies.
+					</p>
+				</div>
+			</div>
 			<div class="row">
 				<div class="cell">
 					<h3>Freelance Artist and Developer</h3>
@@ -115,7 +131,7 @@
 					<p>
 						Back in college, I utilized my development skills to create artistic projects and
 						theater performances. I have developed websites, mobile apps, and games using
-						JavaScript, Svelte, Three.js, Swift, and Unity.
+						JavaScript, Svelte, Three.js, openFrameworks, Swift, and Unity.
 					</p>
 					<p>
 						I have also worked with video and animation, including video art and multimedia
@@ -198,6 +214,29 @@
 				</div>
 			</div>
 
+
+			<div class="row">
+				<div class="cell">
+					<h3>Tumo Center for Creative Technologies</h3>
+					<p><b>2023</b></p>
+					<p><b>Visiting Lecturer</b></p>
+					<p>
+						A lecture dedicated to the intersections between photography and computer vision systems.
+					</p>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="cell">
+					<h3>HSE Art and Design School</h3>
+					<p><b>2022-now</b></p>
+					<p><b>Visiting Lecturer</b></p>
+					<p>
+						Lectures and seminars dedicated to machine magic and electronic music in the early 90s, and lectures on game art.
+					</p>
+				</div>
+			</div>
+
 			<div class="row">
 				<div class="cell">
 					<h3>Politics of Culture. Fundraising festival in aid of Ukrainian refugees</h3>
@@ -210,17 +249,7 @@
 				</div>
 			</div>
 
-			<div class="row">
-				<div class="cell">
-					<h3>HSE Art and Design School</h3>
-					<p><b>2022</b></p>
-					<p><b>Visiting Lecturer</b></p>
-					<p>
-						There was a lecture and a seminar dedicated to machine magic and electronic music in
-						early 90s.
-					</p>
-				</div>
-			</div>
+		
 
 			<div class="row">
 				<div class="cell">
@@ -262,57 +291,7 @@
 					<p>I held a micro-course on the use of AI in Theater Production.</p>
 				</div>
 			</div>
-
-			<div class="row">
-				<div class="cell">
-					<h2bright>Writings</h2bright>
-				</div>
-			</div>
-
-			<div class="row">
-				<a class="cell" href="https://bbbl.dev/articles/low-tech">
-					<div class="with-arrow">
-						<h3>
-							What is Low-Tech Web Community and How Will It Help WIn The War Against Platforms,
-							Bubble, 2022
-						</h3>
-						<div class="arrow"></div>
-					</div>
-				</a>
-			</div>
-
-			<div class="row">
-				<a class="cell" href="https://supernova.is/editorial/ai-bias">
-					<div class="with-arrow">
-						<h3>Why AI Copies Our Biases and How To Fix It, Supernova, 2022</h3>
-						<div class="arrow"></div>
-					</div>
-				</a>
-			</div>
-
-			<div class="row">
-				<a
-					class="cell"
-					href="https://nonfiction.ru/stream/algoritm-sluchajnoj-realnosti-mashinnyij-intellekt-v-iskusstve"
-				>
-					<div class="with-arrow">
-						<h3>Random Reality Algorithm: Machine Intelligence in Art, Alpina Non-Fiction, 2021</h3>
-						<div class="arrow"></div>
-					</div>
-				</a>
-			</div>
-
-			<div class="row">
-				<a
-					class="cell"
-					href="https://cognitive.sovremennik.ru/znanie/14-instrumenty-tsifrovogo-iskusstva"
-				>
-					<div class="with-arrow">
-						<h3>Instruments of Digital Art, Cognitive, 2021</h3>
-						<div class="arrow"></div>
-					</div>
-				</a>
-			</div>
+			
 
 			<div class="row">
 				<div class="cell">

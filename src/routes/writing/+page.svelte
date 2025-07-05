@@ -31,6 +31,50 @@
 			</div>
 
 			<div class="row">
+				<a class="cell" href="https://theblueprint.ru/culture/specials/restore-tsifrovoe-iskusstvo">
+					<div class="with-arrow">
+						<h3>
+							Black — White — Digital: Unpacking Contemporary Digital Art, The Blueprint, 2024
+						</h3>
+						<div class="arrow"></div>
+					</div>
+				</a>
+			</div>
+
+			<div class="row">
+				<a class="cell" href="https://theblueprint.ru/culture/specials/kaspersky-open-bodies">
+					<div class="with-arrow">
+						<h3>
+							Open Bodies: The Shape of Human–Technology Synergy, The Blueprint, 2024
+						</h3>
+						<div class="arrow"></div>
+					</div>
+				</a>
+			</div>
+
+			<div class="row">
+				<a class="cell" href="https://inclusion.yandex.ru/setters-project">
+					<div class="with-arrow">
+						<h3>
+							Without Exclusion. Why Accessibility in Technology Matters, Yandex, 2024
+						</h3>
+						<div class="arrow"></div>
+					</div>
+				</a>
+			</div>
+
+			<div class="row">
+				<a class="cell" href="https://us5.campaign-archive.com/?u=4ea5740c1fe71d71fea4212ee&id=aafee9f20f">
+					<div class="with-arrow">
+						<h3>
+							Online Longing: Why We Suffer Yet Still Go Online, Kit, 2023
+						</h3>
+						<div class="arrow"></div>
+					</div>
+				</a>
+			</div>
+
+			<div class="row">
 				<a class="cell" href="https://bbbl.dev/articles/low-tech">
 					<div class="with-arrow">
 						<h3>
@@ -43,7 +87,7 @@
 			</div>
 
 			<div class="row">
-				<a class="cell" href="https://supernova.is/editorial/ai-bias">
+				<a class="cell" href="https://supernova.is/pochemu-ii-kopiruet-nashi-predubezhdeniya-i-kak-eto-ispravit/">
 					<div class="with-arrow">
 						<h3>Why AI Copies Our Biases and How To Fix It, Supernova, 2022</h3>
 						<div class="arrow"></div>
@@ -66,7 +110,7 @@
 			<div class="row">
 				<a
 					class="cell"
-					href="https://cognitive.sovremennik.ru/znanie/14-instrumenty-tsifrovogo-iskusstva"
+					href="https://web.archive.org/web/20230209123228/https://cognitive.sovremennik.ru/znanie/14-instrumenty-tsifrovogo-iskusstva"
 				>
 					<div class="with-arrow">
 						<h3>Instruments of Digital Art, Cognitive, 2021</h3>
