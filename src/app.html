@@ -1,34 +1,32 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
+		<meta name="viewport" content="width=device-width" />
+		%sveltekit.head%
+		<style>
+			body {
+				background-color: black;
+				-webkit-font-smoothing: antialiased;
+				-moz-osx-font-smoothing: grayscale;
+			}
 
-<head>
-	<meta charset="utf-8" />
-	<link rel="icon" href="%sveltekit.assets%/favicon.png" />
-	<meta name="viewport" content="width=device-width" />
-	%sveltekit.head%
-	<style>
-		body {
-			background-color: black;
-			-webkit-font-smoothing: antialiased;
-			-moz-osx-font-smoothing: grayscale;
-		}
+			@font-face {
+				font-family: Suisse;
+				font-weight: regular;
+				src: url('../static/fonts/Cushing-Book.otf') format('opentype');
+			}
 
-		@font-face {
-			font-family: Suisse;
-			font-weight: regular;
-			src: url("../static/fonts/Cushing-Book.otf") format("opentype");
-		}
+			@font-face {
+				font-family: Cooshing-Book;
+				font-weight: regular;
+				src: url('fonts/Cushing-Book.otf') format('opentype');
+			}
+		</style>
+	</head>
 
-		@font-face {
-			font-family: Cooshing-Book;
-			font-weight: regular;
-			src: url("fonts/Cushing-Book.otf") format("opentype");
-		}
-	</style>
-</head>
-
-<body data-sveltekit-preload-data="hover">
-	<div style="display: contents">%sveltekit.body%</div>
-</body>
-
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">%sveltekit.body%</div>
+	</body>
 </html>
