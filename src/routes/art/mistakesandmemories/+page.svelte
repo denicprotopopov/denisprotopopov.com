@@ -55,7 +55,7 @@ Linsday Clark and Christian Enemark describe drones and other swarm-based system
 			<div class="row">
 				<div class="cell">
 					<p>
-The creators of the project developed a visual novel about how autonomous militarized devices turn into queer bodies — simultaneously robots and instruments of war. It is a story of how war disorients combatants, victims, perpetrators, and everyone caught within and around it, embedding into itself a language and mode of thinking that, by its very nature, should exclude war altogether.
+We developed a visual novel about how autonomous militarized devices turn into queer bodies — simultaneously robots and instruments of war. It is a story of how war disorients combatants, victims, perpetrators, and everyone caught within and around it, embedding into itself a language and mode of thinking that, by its very nature, should exclude war altogether.
 
 
 					</p>
