@@ -35,12 +35,23 @@
 		<a href="/art/mistakesandmemories">
 			<p class="header-in-box">Mistakes and Memories</p>
 			<p class="text-in-box">
-				Visual novel adventure game in development that uses queer perspectives on weaponization.
+				A multiplayer visual novel on swarm intelligence as a shared language for humans and machines.
 			</p>
 		</a>
 	</Card>
 
 	<Card class="drone card"><a href="/art/mistakesandmemories"></a></Card>
+
+	<Card class="lightblue card">
+		<a href="/art/walk">
+			<p class="header-in-box">Dislocated Gaps</p>
+			<p class="text-in-box">
+				A sound walk, that interweaved personal stories with video game mechanics.
+			</p>
+		</a>
+	</Card>
+
+	<Card class="walk card"><a href="/art/walk"></a></Card>
 
 	<Card class="dark card">
 		<a href="/art/labor">
@@ -148,6 +159,9 @@
 	.container :global(.darkgreen) {
 		background-color: rgb(82, 64, 55);
 	}
+	.container :global(.lightblue) {
+		background-color: rgb(63, 111, 156);
+	}
 	.container :global(.cv) {
 		background-image: url('/images/cv0.png');
 	}
@@ -177,6 +191,10 @@
 
 	.container :global(.drone) {
 		background-image: url('/images/drone1.png');
+	}
+
+	.container :global(.walk) {
+		background-image: url('/images/walk1.JPG');
 	}
 
 	a {

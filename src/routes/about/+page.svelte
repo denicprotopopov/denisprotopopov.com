@@ -1,3 +1,4 @@
+
 <svelte:head>
 	<title>Denis Protopopov</title>
 	<meta property="og:title" content="Denis Protopopov" />
@@ -56,12 +57,8 @@
 			<div class="row">
 				<div class="cell">
 					<p>
-						I am a creative developer and STEM learning experience designer driven by a passion for
-						education, art, and making technology transparent. Over the past five years, I have
-						developed more than 10 artistic projects that have utilized various cutting-edge
-						technologies, such as AI, VR, and AR. I have held LX-designer positions in two edTech
-						companies that are among the top three leaders on the CIS market (Yandex Practicum and
-						SkillFactory).
+						I’m an artist, researcher, and creative developer working across visual and performative arts, immersive technologies, and algorithmic systems.
+						I create mixed reality experiences, algorithmic theater, games, and visual novels that explore the aesthetics and politics of computation: from algorithmic bias and queered machines to speculative rituals of tech. My projects have been presented at Ars Electronica [AT], the Hermitage [RU], and beyond.
 					</p>
 				</div>
 			</div>
@@ -69,11 +66,9 @@
 			<div class="row">
 				<div class="cell">
 					<p>
-						With a background in computer science and visual arts, I have gained experience in
-						programming and design. My work has been exhibited in various notable venues such as Ars
-						Electronica and the Hermitage, in the form of websites, mobile apps, and games. This
-						experience helped me develop skills that now enable me to create technologically
-						advanced yet accessible and engaging projects.
+						Currently I am a creative developer and researcher at the Intangible Realities Laboratory,
+						where I co-develop immersive technologies and embodied experiences that bridge
+						the gap between scientific modeling and sensory experience.
 					</p>
 				</div>
 			</div>
@@ -81,14 +76,8 @@
 			<div class="row">
 				<div class="cell">
 					<p>
-						Education is a field where I see an opportunity for actual change towards a more just
-						and equal world. This is why, in addition to working with edTech companies, I have
-						produced and developed two independent educational projects for artists and activists.
-						My work in this area has been recognized, including a mention in <a
-							class="intext"
-							href="https://www.forbes.ru/forbeslife/415027-bezuslovnyy-bazovyy-dohod-i-virtualnaya-realnost-kak-sozdateli-cifrovogo-iskusstva"
-							>Forbes</a
-						> for developing the first educational project on digital art in Russia.
+						I also produce educational tools and initiatives for artists and activists, helping others critically engage with the logic and aesthetics of contemporary algorithms. 
+						One of my projects received a mention in Forbes for launching Russia’s first digital art education platform.
 					</p>
 				</div>
 			</div>
@@ -107,117 +96,72 @@
 					</div>
 				</a>
 			</div>
-
+			<div class="row">
+				<div class="cell">
+					<h3>Intangible Realities Laboratory</h3>
+					<p><b>2024 — now</b></p>
+					<p><b>Creative Developer and Researcher</b></p>
+					<p>
+						At IRL, I design immersive strategies for interacting with real-time atomic and molecular simulations. 
+						My work involves computer vision, high-performance graphics, and speculative interaction design. 
+						I also research emerging XR technologies as both scientific tools and artistic media.
+					</p>
+				</div>
+			</div>
 			<div class="row">
 				<div class="cell">
 					<h3>Freelance Artist and Developer</h3>
 					<p><b>2017 — now</b></p>
 					<p>
-						Back in college, I utilized my development skills to create artistic projects and
-						theater performances. I have developed websites, mobile apps, and games using
-						JavaScript, Svelte, Three.js, Swift, and Unity.
+						Since 2017, I’ve worked as an independent artist and developer, creating interactive installations, games, and performances that interrogate technological logic through storytelling, magic, and embodiment. 
+						My works have been shown in over 10 group and 4 solo shows. 
+						I've held talks and workshops at institutions such as Goethe Institut, HSE Art and Design School, and Strelka Institute.
 					</p>
 					<p>
-						I have also worked with video and animation, including video art and multimedia
-						theatrical scenery made using Cinema 4D, Apple Motion, Final Cut Pro, and mapping with
-						Resolume Arena.
+						I develop my projects using JavaScript, Three.js, Svelte, Unity, openFrameworks, and Swift. 
+						I also work with video and animation using Cinema 4D, Final Cut, and Apple Motion, and create interactive scenography with Resolume.
 					</p>
-					<p>
-						I have participated in more than 10 group and 4 solo exhibitions, including
-						performances, in Russia and internationally. As an artist, I have been invited to
-						multiple venues to hold lectures and artist talks, including Goethe Institut, HSE Art
-						and Design School, and Strelka Institute.
-					</p>
+
 				</div>
 			</div>
 
 			<div class="row">
 				<div class="cell">
-					<h3>Yandex Practicum</h3>
-					<p><b>2021 — now</b></p>
+					<h3>EdTech and Learning Experience Design</h3>
+					<p><b>2020 — now</b></p>
 					<p><b>Learning Experience Designer</b></p>
 					<p>
-						I joined a team where I was responsible for the learning experience of five web
-						development products. During my time here, I developed and implemented a pipeline that
-						utilizes student behavior data to execute metric-based content refactoring, which helped
-						to maintain a completion rate of over 50% and an employability rate of over 70%.
+						In parallel with my artistic and research practice, I’ve worked in educational design, 
+						focusing on how complex technical knowledge is structured, delivered, and experienced. 
+						At Yandex Practicum and SkillFactory, I developed large-scale online programs aimed at 
+						reskilling students for careers in web development and data science.
 					</p>
 					<p>
-						I also redesigned the curriculum and learning experience of two online reskilling
-						bootcamps: "Frontend Developer" and "Fullstack Developer". Currently, I consult with the
-						Practicum team on the learning experience of the "Soft Skills for Developers" course.
+						At Yandex Practicum, I led the learning experience for five web development products, 
+						designed a behavior-driven content update pipeline, and helped maintain high completion 
+						and employment rates. At SkillFactory, I helped launch Russia’s first online Master’s 
+						program in Data Science, wrote a complete Linux course, and created interactive content 
+						that made technical concepts more accessible.
 					</p>
 				</div>
 			</div>
 
-			<div class="row">
-				<div class="cell">
-					<h3>Meyerhold Center</h3>
-					<p><b>2020 — 2022</b></p>
-					<p><b>Resident</b></p>
-					<p>
-						After winning the Blackbox residency, I became a permanent resident of the Meyerhold
-						Center, one of the most important theatrical and artistic platforms in Russia. Here, I
-						conceptualized and directed the algorithmic theater performance "Rockets Take Off and
-						Crash and Scatter In the Air," which successfully ran for two theatrical seasons.
-					</p>
-					<p>
-						During my time at the Meyerhold Center, I produced and developed the "Digital Theater
-						Workshop," the first online course on digital arts in Russia.
-					</p>
-					<p>
-						I was no longer a resident of the Meyerhold Center when the theater was closed by the
-						Russian government due to the anti-war position of its director.
-					</p>
-				</div>
-			</div>
 
-			<div class="row">
-				<div class="cell">
-					<h3>SkillFactory</h3>
-					<p><b>2020 — 2021</b></p>
-					<p><b>Learning Experience Designer for Higher Education</b></p>
-					<p>
-						I joined the product team as its first member to work on a non-existent product - a
-						service that would help established universities create online graduate programs in Data
-						Science and Machine Learning.
-					</p>
-					<p>
-						I worked on creating the entire educational experience, production pipeline, core
-						values, and principles. Together with the team, we launched the first-ever online
-						master's program in Data Science in Russia. Besides LX-design work, I also
-						conceptualized, designed, and coded explorable explanations and wrote the entire "Basic
-						Linux" course as an expert.
-					</p>
-				</div>
-			</div>
+
 
 			<div class="row">
 				<div class="cell">
 					<h2bright>Educational Career</h2bright>
 				</div>
 			</div>
-
-			<div class="row">
-				<div class="cell">
-					<h3>Politics of Culture. Fundraising festival in aid of Ukrainian refugees</h3>
-					<p><b>2022</b></p>
-					<p><b>Lecturer</b></p>
-					<p>
-						I did a lecture dedicated to social prejudices in AI systems and its connections to
-						modern wars.
-					</p>
-				</div>
-			</div>
-
-			<div class="row">
+		
+		<div class="row">
 				<div class="cell">
 					<h3>HSE Art and Design School</h3>
-					<p><b>2022</b></p>
+					<p><b>2022-now</b></p>
 					<p><b>Visiting Lecturer</b></p>
 					<p>
-						There was a lecture and a seminar dedicated to machine magic and electronic music in
-						early 90s.
+						Lectures and seminars dedicated to machine magic and electronic music in the early 90s, and lectures on game art.
 					</p>
 				</div>
 			</div>
@@ -237,83 +181,33 @@
 				</div>
 			</div>
 
-			<div class="row">
+						<div class="row">
 				<div class="cell">
-					<h3>Strelka Institute of Architecture, Media and Design</h3>
-					<p><b>2020</b></p>
-					<p><b>Visiting Lecturer</b></p>
-					<p>Micro-course, dedicated to the collection of a speculative dataset.</p>
+					<h3>Digital Theater Workshop</h3>
+					<p><b>2020-2021</b></p>
+					<p><b>Author, producer</b></p>
+					<p>
+						An asynchronous online course that explored the theory and practice of theater in digital environments. 
+						It examined the distinctions between digital theater, performance, game design, and net art, 
+						while introducing core ideas from media theory, interface design, and algorithmic aesthetics. 
+						Participants engaged with practical tools — from Twine and Flickgame to chatbots and AR masks — 
+						to create interactive theatrical projects. 
+					</p>
 				</div>
 			</div>
 
 			<div class="row">
 				<div class="cell">
-					<h3>Masters Art School</h3>
-					<p><b>2019</b></p>
-					<p><b>Lecturer</b></p>
-					<p>I made a series of lectures on the history of media art.</p>
-				</div>
-			</div>
-			<div class="row">
-				<div class="cell">
-					<h3>New Media Lab (Russia)</h3>
-					<p><b>2019</b></p>
-					<p><b>Lecturer</b></p>
-					<p>I held a micro-course on the use of AI in Theater Production.</p>
+					<h3>Guest Lectures & Courses</h3>
+					<p><b>2019 - now</b></p>
+					
+					<p>Strelka Institute, TUMO, Masters Art School, New Media Lab, Politics of Culture festival. Topics included: speculative datasets, algorithmic prejudice in warfare, machine magic, and game aesthetics.
+
+</p>
 				</div>
 			</div>
 
-			<div class="row">
-				<div class="cell">
-					<h2bright>Writings</h2bright>
-				</div>
-			</div>
-
-			<div class="row">
-				<a class="cell" href="https://bbbl.dev/articles/low-tech">
-					<div class="with-arrow">
-						<h3>
-							What is Low-Tech Web Community and How Will It Help WIn The War Against Platforms,
-							Bubble, 2022
-						</h3>
-						<div class="arrow"></div>
-					</div>
-				</a>
-			</div>
-
-			<div class="row">
-				<a class="cell" href="https://supernova.is/editorial/ai-bias">
-					<div class="with-arrow">
-						<h3>Why AI Copies Our Biases and How To Fix It, Supernova, 2022</h3>
-						<div class="arrow"></div>
-					</div>
-				</a>
-			</div>
-
-			<div class="row">
-				<a
-					class="cell"
-					href="https://nonfiction.ru/stream/algoritm-sluchajnoj-realnosti-mashinnyij-intellekt-v-iskusstve"
-				>
-					<div class="with-arrow">
-						<h3>Random Reality Algorithm: Machine Intelligence in Art, Alpina Non-Fiction, 2021</h3>
-						<div class="arrow"></div>
-					</div>
-				</a>
-			</div>
-
-			<div class="row">
-				<a
-					class="cell"
-					href="https://cognitive.sovremennik.ru/znanie/14-instrumenty-tsifrovogo-iskusstva"
-				>
-					<div class="with-arrow">
-						<h3>Instruments of Digital Art, Cognitive, 2021</h3>
-						<div class="arrow"></div>
-					</div>
-				</a>
-			</div>
-
+		
 			<div class="row">
 				<div class="cell">
 					<h2bright>Publicity</h2bright>
