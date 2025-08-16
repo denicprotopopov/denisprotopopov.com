@@ -27,32 +27,40 @@
 				</div>
 			</div>
 			<div class="row">
-				<a class="cell centered" href="https://factory-worker.vercel.app/">
+				<a class="cell centered" href="https://factory-ges-2.vercel.app/">
 					<h2>Play game demo</h2>
 				</a>
-				<a
+				<!-- <a
 					class="bright_cell centered"
 					href="https://github.com/denicprotopopov/labor-in-question"
 					target="_blank"
 				>
 					<h2bright>Source Code</h2bright>
-				</a>
+				</a> -->
 			</div>
 			<div class="row">
 				<div class="cell">
-					<img class="image" src="../images/labor2.png" />
+					<img class="image" src="../images/ges.png" />
+				</div>
+			</div>
+			
+
+			<div class="row">
+				<div class="cell">
+					<p>
+						A digital archive in the form of a video game, exploring the lives of factory workers and the legacy of industrial culture in
+						post-soviet Karelia. Space, sound and objects are the result of reflection on the
+						collected memories of the workers of the Onega Tractor Plant.
+						Players navigate a map and record sounds using a virtual recorder, assembling their own sound collage. They can reimagine
+						the world of state-owned factory labor, from utopian fairy tales about the future, to
+						the decline of the beginning of capitalism. 
+					</p>
 				</div>
 			</div>
 
 			<div class="row">
 				<div class="cell">
-					<p>
-						An exploratory three.js video game addressing the identity of an industrial worker in
-						post-soviet Karelia. Space, sound and objects are the result of reflection on the
-						collected memories of the workers of the Onega Tractor Plant. The player can reimagine
-						the world of state-owned factory labor, from utopian fairy tales about the future, to
-						the decline of the beginning of capitalism. Sound design by Olga Zubova.
-					</p>
+					<img class="image" src="../images/ges2.png" />
 				</div>
 			</div>
 
