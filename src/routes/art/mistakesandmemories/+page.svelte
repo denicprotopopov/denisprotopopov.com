@@ -26,7 +26,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="row">
+			<!-- <div class="row">
 				<a
 					class="bright_cell centered"
 					href="https://mistakes-and-memories.vercel.app/"
@@ -34,7 +34,7 @@
 				>
 					<h2bright>Link (Russian version)</h2bright>
 				</a>
-			</div>
+			</div> -->
 			<div class="row">
 				<div class="cell">
 					<img class="image" src="../images/drone2.png" />
